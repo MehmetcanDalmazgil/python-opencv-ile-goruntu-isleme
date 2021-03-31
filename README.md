@@ -1,2 +1,2 @@
-# PythonDilindeOpenCVileG-r-nt-leme
+# PythonOpenCV
 Python Dilinde OpenCV ile Görüntü İşleme
